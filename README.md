@@ -158,3 +158,7 @@ Lista todos os deals armazenados localmente com data de salvamento. Permite remo
 | Botão para salvar no SQLite local | 7,5 pts | Botão "Salvar na Biblioteca" em `DealDetailScreen` |
 
 **Total: 15 pts**
+
+![Home](images/image1.jpeg)
+![Game Deal](images/image2.jpeg)
+![Saves](images/image3.jpeg)
